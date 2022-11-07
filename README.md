@@ -120,7 +120,7 @@ This farming mod provides a large selection of craftable food and items:
 | farming:paella          | Paella                |
 | farming:flan            | Vanilla Flan          |
 | farming:cheese_vegan    | Vegan Cheese          |
-| farming:onigiri         | Onirigi               |
+| farming:onigiri         | Onigiri               |
 | farming:gyoza           | Gyoza                 |
 | farming:mochi           | Mochi                 |
 | farming:beetroot_soup   | Beetroot Soup         |

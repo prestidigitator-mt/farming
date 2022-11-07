@@ -645,7 +645,7 @@ minetest.register_craft({
 -- Onigiri
 
 minetest.register_craftitem("farming:onigiri", {
-	description = S("Onirigi"),
+	description = S("Onigiri"),
 	inventory_image = "farming_onigiri.png",
 	on_use = minetest.item_eat(2),
 	groups = {flammable = 2}

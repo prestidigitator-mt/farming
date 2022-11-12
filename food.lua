@@ -85,6 +85,11 @@ minetest.register_craft({
 	}
 })
 
+minetest.register_craft({
+	output = "farming:sugar 9",
+	recipe = {{"farming:sugar_cube"}}
+})
+
 --= Sugar caramel
 
 minetest.register_craftitem("farming:caramel", {

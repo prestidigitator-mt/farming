@@ -184,6 +184,13 @@ Created by RZR0 (CC-BY-NC-SA)
 Created by DMBuce (MIT - https://github.com/DMBuce/hatchling-snacks)
   farming_mac_and_cheese.png
 
+Created by XSSheep (CC BY-SA 4.0 - https://minecraft.curseforge.com/projects/pixel-perfection-freshly-updated)
+  farming.coffee_1.png
+  farming.coffee_2.png
+  farming.coffee_3.png
+  farming.coffee_4.png
+  farming.coffee_5.png
+  farming.coffee_beans.png
 
 Copyright (C) 2021-2022: Atlante - AFL-1.1
 License for code: AFL-1.1

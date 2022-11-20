@@ -63,7 +63,7 @@ Created by VanessaE (License: CC BY 3.0):
   farming_cotton_7.png
   farming_cotton_8.png
 
-Created by 7eventy7 (https://www.planetminecraft.com/member/7eventy7/)
+Created by alerikaisattera (License: CC-BY-SA 4.0)
   farming_melon_top.png
   farming_melon_side.png
   farming_melon_bottom.png

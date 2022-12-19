@@ -136,7 +136,6 @@ Created by TenPlus1 (CC BY 3.0)
   farming_rhubarb_2.png
   farming_rhubarb_3.png
   farming_rhubarb.png
-  farming_rhubarb_pie.png
   farming_hemp*.png
   farming_tofu*.png
 
@@ -183,19 +182,19 @@ Created by sirrobzeroone (CC0)
 Created by smoke_th (CC0 - https://opengameart.org/content/popcorn-icon)
   farming_popcorn.png
 
-Created by RZR0 (CC-BY-NC-SA)
-  farming_blueberry_pie.png
-
 Created by DMBuce (MIT - https://github.com/DMBuce/hatchling-snacks)
   farming_mac_and_cheese.png
 
 Created by XSSheep (CC BY-SA 4.0 - https://minecraft.curseforge.com/projects/pixel-perfection-freshly-updated)
-  farming.coffee_1.png
-  farming.coffee_2.png
-  farming.coffee_3.png
-  farming.coffee_4.png
-  farming.coffee_5.png
-  farming.coffee_beans.png
+  farming_coffee_1.png
+  farming_coffee_2.png
+  farming_coffee_3.png
+  farming_coffee_4.png
+  farming_coffee_5.png
+  farming_coffee_beans.png
+  farming_apple_pie.png (edited by TenPlus1)
+  farming_blueberry_pie.png (edited by TenPlus1)
+  farming_rhubarb_pie.png (edited by TenPlus1)
 
 Copyright (C) 2021-2022: Atlante - AFL-1.1
 License for code: AFL-1.1
